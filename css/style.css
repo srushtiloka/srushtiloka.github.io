@@ -146,7 +146,7 @@ font-weight: 900;
 }
 
 .color{
-	color: #fe7171;
+	color: #fcac45;
 }
 
 a.fa.fa-angle-down {
@@ -223,7 +223,9 @@ ul.about-list li span{
 	position: relative;
 	left: 17%;
 }
-#team{ margin:0 auto}
+#team{ width:850px; 
+margin:0 auto;
+}
 #team .item{
     padding: 0;
     margin: 15px;
