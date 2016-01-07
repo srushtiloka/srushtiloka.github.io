@@ -223,8 +223,9 @@ ul.about-list li span{
 	position: relative;
 	left: 17%;
 }
-#team{ width:1200px; 
-margin:0 auto;
+#team{ 
+	width: 890px; 
+	margin: 0 auto;
 }
 #team .item{
     padding: 0;
