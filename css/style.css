@@ -223,7 +223,7 @@ ul.about-list li span{
 	position: relative;
 	left: 17%;
 }
-#team{ width:850px; 
+#team{ width:1200px; 
 margin:0 auto;
 }
 #team .item{
@@ -544,7 +544,7 @@ button.btn.tf-btn.btn-default {
 }
 /* Footer */
 nav#footer{
-	background: #222222;
+	
 	color: #ffffff;
 	padding: 20px 0 15px 0;
 }
